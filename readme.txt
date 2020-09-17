@@ -7,3 +7,6 @@ git is a distribute version control system
 --- 第二个分割线-- 
 git is free software distribute under the GPL
 第二次修改
+
+-- 第三个分割线---
+git第三次修改
